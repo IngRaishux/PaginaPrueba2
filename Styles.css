@@ -1,0 +1,100 @@
+
+.NavBar1{
+    list-style-type: none;
+    margin: 0;
+    /* border-radius: %; */
+    padding: auto;
+    overflow: hidden;
+    border: #656565;
+    background-color: #ddd1d1;
+}
+#search{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0.75rem;
+}
+
+#bb{
+    justify-content: center;
+    list-style: none;
+    margin: 0.75rem;
+}
+
+.NavBar{
+    list-style-type: none;
+    display: flex;
+    margin-top: 0;
+    justify-content: center;
+    overflow: hidden;
+    border: #656565;
+    background-color: #ddd1d1;
+}
+nav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid rgb(22, 22, 22);
+    background-color: #f3f3f3;
+}
+
+
+li {
+    float: right;
+    border-right: 1px solid rgb(22, 22, 22);
+}
+
+li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+aside{
+    border-right: 3px solid rgb(22,22,22);
+    /* width: 15px; */
+    padding-left: 15px;
+    margin-left: 15px;
+    float: left;
+    
+}
+h1{
+    font-size: 35px;
+}
+
+.Product{
+    
+    box-sizing: content-box;
+    float: left;
+    margin-left: 0.75rem;
+}
+.header{
+    text-align: right
+}
+
+.iron{
+    position: relative;
+    left: 18px;
+    
+}
+.bb{
+    display: flex;
+}
+.tablita
+{
+    position: relative;
+    left: 250px;
+    
+    
+}
+
+table,td {
+	border-bottom: 1px solid #ddd;
+}
+td{
+    width: 30rem;
+    position: center;
+    /* height: 50%; */
+}
